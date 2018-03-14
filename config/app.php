@@ -151,6 +151,8 @@ return [
          * Package Service Providers...
          */
 
+        App\Providers\SimServiceProvider::class,
+
         /*
          * Application Service Providers...
          */
